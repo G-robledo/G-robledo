@@ -16,7 +16,7 @@ I am currently looking for an **internship or junior developer opportunity** to 
 
 ---
 
-## Tech Stack
+## Skills and Tools
 - **Languages**: C, C++, TypeScript, JavaScript, SQL  
 - **Frameworks & Tools**: Node.js, Fastify, Docker, WebSocket, Tailwind CSS  
 - **Concepts**: Networking, API design, authentication (JWT, 2FA), algorithms & data structures  
