@@ -23,14 +23,49 @@ I am currently looking for an **internship or junior developer opportunity** to 
 
 ---
 
-## Featured Projects
-Here are some of my project I find important, you can find all my projects in the 42 cursus repository
+## 🌟 Featured Projects
+- **[Transcendence](https://github.com/G-robledo/transcendence)** – Full-stack web app with multiplayer Pong, JWT/2FA, WebSocket, and 3D graphics  
+- **[ft_irc](https://github.com/G-robledo/irc)** – IRC server in C++ (RFC 2812)  
+- **[Inception](https://github.com/G-robledo/inception)** – Dockerized environment with NGINX, WordPress & MariaDB
+
+---
+
+### 🚀 Common Core Projects
+
+#### Circle 00
+- [libft](https://github.com/G-robledo/libft) – Custom C standard library implementation  
+- [get_next_line](https://github.com/G-robledo/get_next_line) – Function to read a line from a file descriptor  
+- [ft_printf](https://github.com/G-robledo/ft_printf) – Reimplementation of printf  
+
+#### Circle 01
+- [Born2beroot](https://github.com/G-robledo/born2beroot) – System administration & Debian setup  
+- [so_long](https://github.com/G-robledo/so_long) – Simple 2D game with graphics  
+
+#### Circle 02
+- [push_swap](https://github.com/G-robledo/push_swap) – Sorting algorithm challenge with stacks  
+- [minitalk](https://github.com/G-robledo/minitalk) – Simple client/server communication using signals  
+
+#### Circle 03
+- [Philosophers](https://github.com/G-robledo/philosophers) – Multithreading & synchronization  
+- [minishell](https://github.com/G-robledo/minishell) – Custom shell with parsing & execution  
+
+#### Circle 04
+- [NetPractice](https://github.com/G-robledo/netpractice) – Networking fundamentals  
+- [cub3d](https://github.com/G-robledo/cub3d) – Raycasting game (like Wolfenstein 3D)  
+
+#### Circle 05
+- [ft_irc](https://github.com/G-robledo/irc) – IRC server in C++ following RFC 2812  
+- [Inception](https://github.com/G-robledo/inception) – Dockerized environment with NGINX, WordPress & MariaDB  
+
+#### Circle 06+
+- [Transcendence](https://github.com/G-robledo/transcendence) – Final project: Full-stack web app with Pong game, authentication (JWT/2FA), WebSocket, and 3D graphics  
 
 ---
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/gr%C3%A9gory-robledo-b191b5381/) 
-- gregoryrobledo99@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gr%C3%A9gory-robledo-b191b5381/)  
+[![Email](https://img.shields.io/badge/Email-gregoryrobledo99%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gregoryrobledo99@gmail.com)  
+
 
 
 <!--
