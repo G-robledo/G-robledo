@@ -1,4 +1,4 @@
-# 🪐 Hi, I'm Gregory Robledo
+# Hi, I'm Gregory Robledo
 
 I'm a student at **42**, a software engineering school where learning is project-based, peer-to-peer, and challenge-driven.  
 Through 42’s unique approach, I’ve learned to adapt quickly, solve problems independently, and collaborate on complex technical projects.  
