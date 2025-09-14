@@ -51,11 +51,13 @@ I am currently looking for an **internship or junior developer opportunity** to 
 
 ### Circle 04
 - [NetPractice](https://github.com/G-robledo/netpractice) – Networking fundamentals  
-- [cub3d](https://github.com/G-robledo/cub3d) – Raycasting game (like Wolfenstein 3D)  
+- [cub3d](https://github.com/G-robledo/cub3d) – Raycasting game (like Wolfenstein 3D)
+- [cpp00 to cpp04](https://github.com/G-robledo/cpp1) - C++ Modules 0 to 4: introduction to object-oriented programming, classes, constructors, initialization, namespaces, and string manipulation.
 
 ### Circle 05
 - [ft_irc](https://github.com/G-robledo/irc) – IRC server in C++ following RFC 2812  
-- [Inception](https://github.com/G-robledo/inception) – Dockerized environment with NGINX, WordPress & MariaDB  
+- [Inception](https://github.com/G-robledo/inception) – Dockerized environment with NGINX, WordPress & MariaDB
+- [cpp05 to cpp09](https://github.com/G-robledo/cpp2) – C++ Modules 5 to 9: deeper OOP concepts, exception handling, templates, STL containers, iterators, and advanced use of the standard library.
 
 ### Circle 06+
 - [Transcendence](https://github.com/G-robledo/transcendence) – Final project: Full-stack web app with Pong game, authentication (JWT/2FA), WebSocket, and 3D graphics  
