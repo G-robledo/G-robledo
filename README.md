@@ -62,13 +62,14 @@ I am currently looking for an **internship or junior developer opportunity** to 
 ### Circle 06+
 - [Transcendence](https://github.com/G-robledo/transcendence) – Final project: Full-stack web app with Pong game, authentication (JWT/2FA), WebSocket, and 3D graphics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-robledo&show_icons=true&theme=radical)](https://github.com/G-robledo)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-robledo&layout=compact&theme=tokyonight)](https://github.com/G-robledo)
-
-
 ---
 
 ## 📡 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/gr%C3%A9gory-robledo-b191b5381/)  
 - gregoryrobledo99@gmail.com  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G-robledo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-robledo&layout=compact&theme=radical" alt="Top Languages" />
+</p>
