@@ -69,7 +69,8 @@ I am currently looking for an **internship or junior developer opportunity** to 
 - gregoryrobledo99@gmail.com  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G-robledo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=G-robledo&show_icons=true&theme=radical" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-robledo&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-robledo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
