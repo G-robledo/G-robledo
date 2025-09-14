@@ -68,6 +68,8 @@ I am currently looking for an **internship or junior developer opportunity** to 
 - [LinkedIn](https://www.linkedin.com/in/gr%C3%A9gory-robledo-b191b5381/)  
 - gregoryrobledo99@gmail.com  
 
+---
+
 <p align="center">
   <img width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=G-robledo&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
   <img width="420" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-robledo&layout=compact&theme=radical&hide=roff" alt="Top Languages" />
