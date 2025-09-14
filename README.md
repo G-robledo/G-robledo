@@ -70,7 +70,7 @@ I am currently looking for an **internship or junior developer opportunity** to 
 
 <p align="center">
   <img width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=G-robledo&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img width="420" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-robledo&layout=compact&theme=radical&hide=roff" alt="Top Languages" />
 </p>
+
 
