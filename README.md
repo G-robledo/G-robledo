@@ -60,7 +60,12 @@ I am currently looking for an **internship or junior developer opportunity** to 
 - [cpp05 to cpp09](https://github.com/G-robledo/cpp2) – C++ Modules 5 to 9: deeper OOP concepts, exception handling, templates, STL containers, iterators, and advanced use of the standard library.
 
 ### Circle 06+
-- [Transcendence](https://github.com/G-robledo/transcendence) – Final project: Full-stack web app with Pong game, authentication (JWT/2FA), WebSocket, and 3D graphics  
+- [Transcendence](https://github.com/G-robledo/transcendence) – Final project: Full-stack web app with Pong game, authentication (JWT/2FA), WebSocket, and 3D graphics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-robledo&show_icons=true&theme=radical)](https://github.com/G-robledo)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-robledo&layout=compact&theme=tokyonight)](https://github.com/G-robledo)
+
 
 ---
 
