@@ -25,7 +25,8 @@ I am currently looking for an **internship or junior developer opportunity** to 
 
 ## ✨ Featured Projects
 - **[Transcendence](https://github.com/G-robledo/transcendence)** – Full-stack web app with multiplayer Pong, JWT/2FA, WebSocket, and 3D graphics  
-- **[ft_irc](https://github.com/G-robledo/ft_irc)** – IRC server in C++ (RFC 2812)  
+- **[ft_irc](https://github.com/G-robledo/ft_irc)** – IRC server in C++ (RFC 2812)
+- **[Inception](https://github.com/G-robledo/inception)** – Dockerized environment with NGINX, WordPress & MariaDB  
 
 ---
 
