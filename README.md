@@ -67,12 +67,3 @@ My day-to-day stack is **Angular, TypeScript, Node.js and Firebase**. I work on 
 ## 📡 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/gr%C3%A9gory-robledo-b191b5381/)  
 - gregoryrobledo99@gmail.com  
-
----
-
-<p align="center">
-  <img align="top" width="420" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=G-robledo&layout=compact&theme=radical&hide=roff" alt="Top Languages" />
-</p>
-
-
-
