@@ -1,16 +1,19 @@
 # Hi, I'm Gregory Robledo
 
-I'm a **full-stack developer at Complément**, on a **permanent contract (CDI) since August 2026**, and an **École 42 alumnus**.
+I'm a **full-stack developer** and part of the **42 Alumni** community.
 
-My day-to-day stack is **Angular, TypeScript, Node.js and Firebase**. I work on an education platform, building features across the front end and back end.
+My main stack is **Angular, TypeScript, Node.js and Firebase**. I build features across the front end and back end.
 
 ---
 
 ## 🧭 About Me
-- Build features end to end, including a **gamification system** with XP, levels, badges and leaderboards.
-- Contribute to **AI-powered course generation** and **real-time voice tutoring**.
-- Create **reusable AI-agent skills and multi-agent workflows** for development, testing and code review.
-- Background in **C/C++**, systems programming, networking, **Linux** and **Docker**.
+
+My experience at **Complément** includes building features for an education platform:
+
+- End-to-end design and development of a **gamification system** with XP, levels, badges and leaderboards.
+- Contributions to **AI-powered course generation** and **real-time voice tutoring**.
+
+I also create **reusable AI-agent skills and multi-agent workflows** for development, testing and code review. My background includes **C/C++**, systems programming, networking, **Linux** and **Docker**.
 
 ---
 
