@@ -1,25 +1,25 @@
 # Hi, I'm Gregory Robledo
 
-I'm a student at **42**, a software engineering school where learning is project-based, peer-to-peer, and challenge-driven.  
-Through 42’s unique approach, I’ve learned to adapt quickly, solve problems independently, and collaborate on complex technical projects.  
+I'm a **full-stack developer at Complément**, on a **permanent contract (CDI) since August 2026**, and an **École 42 alumnus**.
 
-I am currently looking for an **internship or junior developer opportunity** to apply my skills, learn from experienced engineers, and contribute to real-world projects.  
+My day-to-day stack is **Angular, TypeScript, Node.js and Firebase**. I work on an education platform, building features across the front end and back end.
 
 ---
 
 ## 🧭 About Me
-- Passionate about **systems programming, networking, and web technologies**  
-- Daily user of **Linux** (Debian-based)  
-- Experienced with **Docker** and containerized environments  
-- Always curious and continuously improving my skills in both **low-level programming (C/C++)** and **modern web development (TypeScript, Node.js)**  
-- Enjoy working in teams, especially on projects that require clean architecture and maintainable code  
+- Build features end to end, including a **gamification system** with XP, levels, badges and leaderboards.
+- Contribute to **AI-powered course generation** and **real-time voice tutoring**.
+- Create **reusable AI-agent skills and multi-agent workflows** for development, testing and code review.
+- Background in **C/C++**, systems programming, networking, **Linux** and **Docker**.
 
 ---
 
 ## 🛠️ Skills and Tools
-- **Languages**: C, C++, TypeScript, JavaScript, SQL  
-- **Frameworks & Tools**: Node.js, Fastify, Docker, WebSocket, Tailwind CSS  
-- **Concepts**: Networking, API design, authentication (JWT, 2FA), algorithms & data structures  
+- **Front end**: Angular, Ionic, TypeScript, JavaScript, RxJS, HTML, CSS/SCSS.
+- **Back end & data**: Node.js, Firebase Cloud Functions, Firestore, PostgreSQL, SQL.
+- **AI & real time**: Azure Voice Live, OpenAI, LangGraph, WebSocket.
+- **Tests & tools**: Jasmine/Karma, Playwright, Git, Docker, Linux, Storybook, Sentry.
+- **Systems programming**: C, C++.
 
 ---
 
