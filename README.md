@@ -32,6 +32,9 @@ My day-to-day stack is **Angular, TypeScript, Node.js and Firebase**. I work on 
 
 ## 🌀 Common Core Projects
 
+<details>
+<summary>View all École 42 projects</summary>
+
 ### Circle 00
 - [libft](https://github.com/G-robledo/libft) – Custom C standard library implementation  
 - [get_next_line](https://github.com/G-robledo/get_next_line) – Function to read a line from a file descriptor  
@@ -61,6 +64,8 @@ My day-to-day stack is **Angular, TypeScript, Node.js and Firebase**. I work on 
 
 ### Circle 06+
 - [Transcendence](https://github.com/G-robledo/transcendence) – Final project: Full-stack web app with Pong game, authentication (JWT/2FA), WebSocket, and 3D graphics
+
+</details>
 
 ---
 
